@@ -191,13 +191,13 @@ Steps to run this project
 1.Open a new terminal.
 
 2.Clone this project using the following command:
-  git clone https://github.com/Eyantra698Sumanto/XOR-XNOR-Gate.git .
+  git clone https://github.com/AnkitKumar01github/6T-SRAM-IN-CMOS.git
   
 3.  Change directory:
-   cd eSim_project_files/xor_xnor
+   cd eSim_project_files/6T-SRAM-IN-CMOS
    
 4. Run ngspice:
-    ngspice xor_xnor.cir.out
+    ngspice 6T-SRAM-IN-CMOS.cir.out
     
 5. To run the project in eSim:
     Run eSim,
